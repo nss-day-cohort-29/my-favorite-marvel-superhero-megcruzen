@@ -1,0 +1,27 @@
+body {
+    background-color: #B4EDB6;
+    color: #2C0763;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+.header h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.info_wrap {
+    margin: 0 auto;
+    max-width: 520px;
+}
+
+.info {
+    text-align: center;
+}
+
+.info img {
+    border: 2px solid #2C0763;
+}
